@@ -1,4 +1,4 @@
-# LearnQuest — Gamified Learning Platform for Rural Education
+# Gyanjyoti— Gamified Learning Platform for Rural Education
 
 A frontend-only React prototype (no backend, no database, no real auth) built to
 demonstrate the product idea and UI/UX for a gamified learning platform serving
